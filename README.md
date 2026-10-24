@@ -1,11 +1,17 @@
 # Actividad 3: Sistema de asignación de profesores
 
-**Facultad de Ciencias de la Información, UNACAR**
-PA_Lunes- 13:00 
-Elaborado por:
-- Angel Emilio Martínez Camacho
--Mariana Maynez Jacinto
+**Facultad de Ciencias de la Información · UNACAR**
+
+**Grupo:** PA · Lunes 13:00
+
 **Archivo del programa:** `actividad3.pl` (SWI-Prolog)
+
+### Elaborado por
+
+| Integrante | Matrícula |
+|---|---|
+| Angel Emilio Martínez Camacho |194043 |
+| Mariana Maynez Jacinto |191535 |
 
 ---
 
