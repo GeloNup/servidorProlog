@@ -12,6 +12,7 @@
 |---|---|
 | Angel Emilio Martínez Camacho |194043 |
 | Mariana Maynez Jacinto |191535 |
+| Axel Eduardo Morales Rocha |191206 |
 
 ---
 
